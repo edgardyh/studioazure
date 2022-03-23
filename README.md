@@ -1,1 +1,1 @@
-# studioazure
+# studioazureAcceso a repo publico
